@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[viveik.org]]></title>
         <description><![CDATA[viveik.org]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/viveik-org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 03:39:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 24 Oct 2015 03:46:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/viveik-org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[viveik m. saigal]]></title>
             <description><![CDATA[<article><h1>viveik m. saigal</h1><p>How nice to see you here !  find my current projects, past and posts I find interesting.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/044026bb-c3a9-4762-a1c7-154030048f80.jpg"></article>]]></description>
-            <link>undefinedviveik-m-saigal/index.html</link>
+            <link>https://thegrid.ai/viveik-org/viveik-m-saigal/index.html</link>
             <guid isPermaLink="false">734c59db-9df0-44e2-b586-737aeea6398d</guid>
-            <pubDate>Sat, 24 Oct 2015 03:39:29 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2015 03:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
