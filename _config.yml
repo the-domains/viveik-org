@@ -1,6 +1,7 @@
 name: viveik.org
 favicon: null
 layout_spectrum: 0.8320201833266765
+typography_spectrum: 0.9538236539810896
 cta:
   domain: null
   bucket: null
@@ -23,4 +24,3 @@ purpose:
   - name: engagement
     item: null
     url: null
-typography_spectrum: 0.9538236539810896
